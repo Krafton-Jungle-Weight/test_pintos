@@ -13,7 +13,7 @@ intq_init (struct intq *q) {
 	q->not_full = q->not_empty = NULL;
 	q->head = q->tail = 0;
 }
-
+//asdfasdf
 /* Returns true if Q is empty, false otherwise. */
 bool
 intq_empty (const struct intq *q) {

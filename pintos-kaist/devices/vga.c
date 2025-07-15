@@ -8,7 +8,7 @@
 #include "threads/vaddr.h"
 
 /* VGA text screen support.  See [FREEVGA] for more information. */
-
+//asdfasdf
 /* Number of columns and rows on the text display. */
 #define COL_CNT 80
 #define ROW_CNT 25

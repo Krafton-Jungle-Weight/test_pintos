@@ -11,7 +11,7 @@ void
 input_init (void) {
 	intq_init (&buffer);
 }
-
+//asdfasdf
 /* Adds a key to the input buffer.
    Interrupts must be off and the buffer must not be full. */
 void

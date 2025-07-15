@@ -10,7 +10,7 @@
 
 /* The code in this file is an interface to an ATA (IDE)
    controller.  It attempts to comply to [ATA-3]. */
-
+//asdfasdf
 /* ATA command block port addresses. */
 #define reg_data(CHANNEL) ((CHANNEL)->reg_base + 0)     /* Data. */
 #define reg_error(CHANNEL) ((CHANNEL)->reg_base + 1)    /* Error. */

@@ -9,7 +9,7 @@
 
 /* Keyboard data register port. */
 #define DATA_REG 0x60
-
+//asdfasdf
 /* Current state of shift keys.
    True if depressed, false otherwise. */
 static bool left_shift, right_shift;    /* Left and right Shift keys. */
